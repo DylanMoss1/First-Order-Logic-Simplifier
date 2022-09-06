@@ -1,0 +1,2 @@
+(library
+ (name cnf_converter))

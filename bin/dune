@@ -1,0 +1,4 @@
+(executable
+ (public_name cnf_converter)
+ (name main)
+ (libraries cnf_converter))

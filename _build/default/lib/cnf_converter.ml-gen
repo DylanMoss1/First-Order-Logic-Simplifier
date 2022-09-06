@@ -1,0 +1,17 @@
+(** @canonical Cnf_converter.Ast *)
+module Ast = Cnf_converter__Ast
+
+(** @canonical Cnf_converter.Cnf *)
+module Cnf = Cnf_converter__Cnf
+
+(** @canonical Cnf_converter.Lexer *)
+module Lexer = Cnf_converter__Lexer
+
+(** @canonical Cnf_converter.Parser *)
+module Parser = Cnf_converter__Parser
+
+(** @canonical Cnf_converter.Remove_imp *)
+module Remove_imp = Cnf_converter__Remove_imp
+
+(** @canonical Cnf_converter.String_utility *)
+module String_utility = Cnf_converter__String_utility
